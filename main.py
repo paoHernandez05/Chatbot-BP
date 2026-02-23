@@ -21,7 +21,15 @@ app.add_middleware(
 class PreguntaRequest(BaseModel):
     pregunta: str
 
-@app.post("/preguntar")
+@app.post("/preguntarBP")
+def preguntar(data: PreguntaRequest):
+    try:
+        respuesta = responder_pregunta(data.pregunta)
+        return {"respuesta": respuesta}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/preguntarGlucosa")
 def preguntar(data: PreguntaRequest):
     try:
         respuesta = responder_pregunta(data.pregunta)

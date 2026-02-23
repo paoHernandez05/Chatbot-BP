@@ -1,0 +1,196 @@
+La glucosa en sangre alta (hiperglucemia) es una condición en la que el nivel de azúcar en la sangre es demasiado elevado. Una lectura de glucosa se expresa en mg/dL (miligramos por decilitro). Un nivel normal en ayunas es menor a 100 mg/dL para personas sin diabetes, o menor a 126 mg/dL en pruebas diagnósticas. La hiperglucemia se diagnostica generalmente cuando una persona tiene lecturas mayores a 126 mg/dL en ayunas de forma persistente, o superiores a 200 mg/dL en cualquier momento con síntomas. [tudiabetesbajocontrol](https://tudiabetesbajocontrol.com/normoglucemia-niveles-normales-de-glucosa-en-sangre/)
+
+**En ayunas (primera medida clave):** Nivel basal tras 8 horas sin comer.
+
+**Posprandial (segunda):** Nivel 1-2 horas después de comer, idealmente menor a 140 mg/dL en no diabéticos.
+
+Se considera hiperglucemia cuando los niveles superan consistentemente 126 mg/dL en ayunas o 200 mg/dL aleatorios en dos mediciones distintas.
+
+Síntomas comunes pueden incluir sed excesiva, micción frecuente, fatiga, visión borrosa, hambre intensa y heridas que tardan en sanar, aunque muchas personas no presentan síntomas notorios al inicio (por eso se le llama el "asesino silencioso" en diabetes). [cun](https://www.cun.es/enfermedades-tratamientos/enfermedades/hiperglucemia)
+
+Factores de riesgo para la hiperglucemia y diabetes:
+- Edad avanzada
+- Obesidad o sobrepeso
+- Falta de ejercicio físico
+- Dieta alta en azúcares refinados y carbohidratos simples
+- Consumo excesivo de alcohol
+- Estrés crónico
+- Antecedentes familiares de diabetes
+
+Complicaciones:
+- Enfermedad cardíaca
+- Infarto de miocardio
+- Accidente cerebrovascular
+- Insuficiencia renal
+- Pérdida de la visión (retinopatía diabética)
+
+Tratamiento:
+- Cambios en el estilo de vida: ejercicio regular (al menos 150 min/semana), dieta baja en carbohidratos refinados y azúcares, control de porciones, pérdida de peso.
+- Medicamentos: insulina, metformina, sulfonilureas, inhibidores de DPP-4, agonistas de GLP-1, inhibidores de SGLT2, entre otros.
+
+Diabetes o hiperglucemia en niños y adolescentes  
+Se diagnostica comparando los niveles de glucosa con los normales según edad, sexo y peso. Requiere valoración pediátrica especializada.
+
+Tipos de alteraciones de glucosa en sangre
+
+**Diabetes tipo 1:** Autoinmune, sin causa única específica, suele desarrollarse en la infancia o adolescencia.
+
+**Diabetes tipo 2:** Causada por resistencia a la insulina, asociada a obesidad, sedentarismo o factores genéticos.
+
+**Diabetes gestacional:** Aparece después de la semana 20 del embarazo, aumenta riesgo de diabetes tipo 2 futura.
+
+**Hiperglucemia secundaria:** Provocada por otras enfermedades (pancreatitis, endocrinas) o medicamentos (esteroides).
+
+Diabetes o hiperglucemia en el embarazo  
+Tipos:  
+
+Diabetes gestacional  
+Diabetes pregestacional (crónica)  
+Preeclampsia con hiperglucemia asociada  
+
+Posibles complicaciones:  
+
+Parto prematuro, bajo peso al nacer, macrosomía fetal (bebé grande), desprendimiento de placenta, daño hepático o renal, hipoglucemia neonatal.  
+
+Control:  
+
+Monitoreo constante de glucosa, dieta controlada en carbohidratos, actividad física moderada, medicación (insulina preferida) bajo supervisión, posible parto inducido.
+
+Preguntas frecuentes:
+
+- ¿La hiperglucemia o diabetes es curable?  
+No, pero sí se puede controlar eficazmente con medicamentos, insulina y hábitos saludables como dieta y ejercicio.
+
+- ¿Qué alimentos son buenos para controlar la glucosa?  
+Frutas bajas en azúcar (manzana, berries), verduras de hoja verde, granos integrales, nueces, legumbres y proteínas magras como pollo o pescado.
+
+- ¿Cuándo debo consultar al médico?  
+Cuando tengas lecturas persistentes por arriba de 126 mg/dL en ayunas, 200 mg/dL aleatorios o presentes síntomas como sed extrema, micción frecuente o fatiga intensa.
+
+Recomendaciones  
+Controlar la glucosa al menos cada 2 años desde los 18 años, o según indique el médico.  
+
+En mayores de 40 años o personas con factores de riesgo (obesidad, diabetes familiar): control anual o más frecuente con glucometro.  
+
+Uso responsable de glucometros (verificar calibración, limpiar manos, usar tiras nuevas y postura correcta).  
+
+## Complicaciones de la Hiperglucemia/Diabetes mal controlada
+
+- Infarto de miocardio
+- Accidente cerebrovascular
+- Insuficiencia renal
+- Retinopatía diabética (pérdida visual)
+- Neuropatía (daño nervioso), amputaciones y muerte prematura
+
+***
+
+## Objetivos del Tratamiento
+
+- **Glucosa meta**:
+  - General (sin diabetes): < 100 mg/dL en ayunas
+  - Personas con diabetes: 80-130 mg/dL preprandial
+- **Hemoglobina A1c**: < 7%
+- **IMC**: < 25 kg/m²
+- **Carbohidratos**: Controlados según plan (45-60g/comida típica)
+- **Alcohol**: < 30 ml/día (la mitad en mujeres)
+- **Evitar completamente el tabaco**
+
+***
+
+## Tratamiento
+
+### No farmacológico (Inicio y mantenimiento)
+
+- Dieta baja en azúcares refinados y carbohidratos simples
+- Control de porciones y peso
+- Actividad física constante (150 min/semana)
+- Evitar fumar y limitar alcohol
+
+### Farmacológico
+
+- Individualizado por el médico
+- Considera efectos secundarios, interacciones y comorbilidades
+- **No automedicarse**
+
+## Intervención médica según nivel de glucosa en sangre
+
+| Clasificación      | Ayunas (mg/dL) | Acción                                                 |
+| ------------------ | -------------- | ------------------------------------------------------ |
+| Óptima             | <100           | Promoción de estilos saludables, detección cada 3 años |
+| Normal             | 100-125        | Igual que anterior                                     |
+| Prediabetes        | 100-125        | Estilos saludables, detección semestral                |
+| Diabetes (Etapa 1) | 126-199        | Confirmación diagnóstica                               |
+| Diabetes (Etapa 2) | 200-299        | Tratamiento integral                                   |
+| Emergencia         | >300           | Tratamiento urgente                                    |
+
+## Apoyo Emocional y Psicosocial
+
+### Etapas del duelo por diagnóstico de diabetes
+
+1. Negación  
+2. Enojo  
+3. Negociación  
+4. Depresión  
+5. Aceptación  
+
+### Recomendaciones
+
+- Expresar emociones libremente  
+- Fortalecer autoestima con metas pequeñas diarias  
+- Buscar apoyo profesional si persisten síntomas > 6 meses  
+- Participar activamente en el autocontrol de glucosa
+
+## Alimentación Correcta
+
+### Plato del Bien Comer (adaptado a glucosa)
+
+- Grupo 1: Frutas bajas en azúcar y verduras (fibra, antioxidantes, bajo índice glucémico)  
+- Grupo 2: Cereales integrales, leguminosas y tubérculos bajos en carbohidratos (energía sostenida)  
+- Grupo 3: Alimentos de origen animal magros (proteínas sin grasas saturadas)  
+- Grupo 4: Grasas saludables y azúcares (restringir azúcares, preferir aguacate, nueces)
+
+### Fibra y Control de Glucosa
+
+- Consumir frutas y verduras ricas en fibra soluble  
+- Ejemplos: manzana con cáscara, berries, brócoli, espinacas, calabacín
+
+### Carbohidratos y Azúcares
+
+- Controlar a 45-60 g por comida principal  
+- Leer etiquetas, evitar alimentos procesados con azúcares añadidos  
+- Usar especias, canela y hierbas para sabor sin impacto en glucosa
+
+## Control del Peso y Colesterol
+
+- Bajar de peso de forma gradual (5-10% del peso inicial mejora sensibilidad a insulina)
+- Comer más frutas bajas en azúcar, verduras, cereales integrales y lácteos bajos en grasa
+- Limitar grasas saturadas, trans y azúcares simples
+
+***
+
+## Consumo de Alcohol y Tabaquismo
+
+### Alcohol:
+- Evitar o moderar (afecta directamente la glucosa)
+- No más de 30 ml al día (hombres), 15 ml (mujeres o talla baja)
+
+### Tabaco:
+- Dejar de fumar por completo (empeora resistencia a insulina)
+- Buscar apoyo y seguir estrategias para dejar el hábito
+
+***
+
+## Actividad Física
+
+- Ejercicio aeróbico: caminar, bailar, nadar
+- 30-45 minutos, 5 días por semana
+- Comenzar gradualmente
+- Monitorear glucosa antes/durante si usas insulina
+
+## Recomendaciones Finales
+
+- Conozca sus niveles de glucosa y metas personales  
+- Comparta información con su familia  
+- Acuda a sus citas médicas  
+- Ayude a otros pacientes con diabetes  
+- Cuide su estado emocional y pida ayuda cuando la necesite
