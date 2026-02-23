@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from rag_core import responder_pregunta
+from rag_core import responder_pregunta_presion, responder_pregunta_glucosa
 
 app = FastAPI()
 
@@ -24,7 +24,7 @@ class PreguntaRequest(BaseModel):
 @app.post("/preguntarBP")
 def preguntar(data: PreguntaRequest):
     try:
-        respuesta = responder_pregunta(data.pregunta)
+        respuesta = responder_pregunta_presion(data.pregunta)
         return {"respuesta": respuesta}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -32,7 +32,7 @@ def preguntar(data: PreguntaRequest):
 @app.post("/preguntarGlucosa")
 def preguntar(data: PreguntaRequest):
     try:
-        respuesta = responder_pregunta(data.pregunta)
+        respuesta = responder_pregunta_glucosa(data.pregunta)
         return {"respuesta": respuesta}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
